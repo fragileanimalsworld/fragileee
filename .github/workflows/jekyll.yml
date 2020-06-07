@@ -1,0 +1,279 @@
+name:<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body onmousemove="playbackgrund()">
+    <audio id="backgroud_audio" loop autoplay>
+        <source src="media/background/nanana.mp3" type="audio/mp3">
+    </audio>
+    <img src="media/background/ohfragileso.png" style="text-align: center; position: absolute; height: 250px;">
+    <img src="media/background/tape.webp" class="back" style="position: absolute; height: 250px;"
+        onload="background_move(this, 0, 10)">
+    <img src="media/background/tape.webp" class="back" style="position: absolute; height: 250px; left: 20%;"
+        onload="background_move(this, 20, 8)">
+    <img src="media/background/tape.webp" class="back" style="position: absolute; height: 250px; left: 80%;"
+        onload="background_move(this, 5, 6)">
+    <img src="media/background/tape.webp" class="back" style="position: absolute; height: 250px; left: 44%;"
+        onload="background_move(this,50, 15)">
+    <img src="media/background/tape.webp" class="back" style="position: absolute; height: 250px; left: 67%;"
+        onload="background_move(this, 45, 10)">
+
+        
+        
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/pozostałe-nagrobki550śliczne.gif">
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/pozostałe-nagrobki350trippy.gif">
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/nagrobkowa350czerw.gif">
+            <audio preload="auto">
+                <source src="media/sounds/take my haand (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/nagrobkowa400szara.gif">
+            <audio preload="auto">
+                <source src="media/sounds/love me (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/so-tired-angel400.gif">
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/fill-this-space-after-deathselektywna600tak.gif">
+            <audio preload="auto">
+                <source src="media/sounds/LICZAK (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/bęben.gif">
+            <audio preload="auto">
+                <source src="media/sounds/grandmothersfrum (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/beauty150ślicznośći.gif">
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/muszlakrewwampirekmniam450.gif">
+            <audio preload="auto">
+                <source src="media/sounds/xxx (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/bez-głowy-ale-ptahskrzydełko-jednobezmiga500.gif">
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/kasaa.gif"> 
+            <audio preload="auto">
+                <source src="media/sounds/money (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>       
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/bez-głowy-ale-ptah500windows.gif">
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/świeci-się500.gif">
+            <audio preload="auto">
+                <source src="media/sounds/burn (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/haha-400-smiercilustro.gif">
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/EGZIF.gif">
+            <audio preload="auto">
+                <source src="media/sounds/ptaszki (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/szparka-.gif">
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/odku-na-mchu350.gif">
+            <audio preload="auto">
+                <source src="media/sounds/bobo (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/dzieci-ps550kwiaty.gif">
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/dzieci-krewkaamałe-550.gif">
+            <audio preload="auto">
+                <source src="media/sounds/come and play with us (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio> 
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/fragile/nocnior.gif">
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/sukniabusik450.gif">
+            <audio preload="auto">
+                <source src="media/sounds/nożyce (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>  
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/tańczą-wokół-ognia-tańczą550mc.gif">
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/lamb-of-godmord400.gif"> 
+            <audio preload="auto">
+                <source src="media/sounds/uuuuuuuuuu (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio> 
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/fragile/smierc400kapeluszsmiercczerw.gif">
+            <audio preload="auto">
+                <source src="media/sounds/klaunmartwyyyy (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>   
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/czeczotek400bracten.gif">
+            <audio preload="auto">
+                <source src="media/sounds/czeczotowlocie (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>   
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/śliczny-leży-na-grobie-i-tyle-mniam-tylko-mniam.gif">   
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/dzieciory.gif"> 
+            <audio preload="auto">
+                <source src="media/sounds/bobo (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>  
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/home/giffek-mniejszy.gif">
+            <audio preload="auto">
+                <source src="media/home/_mieszki1.mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/fragile/ne-m'oublie-pas500.gif">
+            <audio preload="auto">
+                <source src="media/sounds/forget me not (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>   
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/pięknaczarywow200.gif"> 
+            <audio preload="auto">
+                <source src="media/sounds/wanna.mp3" type="audio/mp3">
+            </audio>    
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/dupaTAKkolor.gif">   
+            <audio preload="auto">
+                <source src="media/sounds/jack Im flying (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio> 
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/domek/kobieta-ddddd-piłądyfuzja.gif">   
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/error/małpula-złot-akula350małpulka.gif">   
+        </div>  
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/getupanddance400TAK.gif">
+            <audio preload="auto">
+                <source src="media/sounds/wake up and dance (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>  
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/domek/1400-domek.gif">
+            <audio preload="auto">
+                <source src="media/home/welcome_home.mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/lala/lalunia-pozytanczyszarosc600.gif">   
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/chujek-fioletowy.gif">   
+        </div> 
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/groby groby/jesuskaczka300bosiewstydze.gif">
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/lala/lala-na-talerzufioletowa1500mniam.gif">   
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/dominique/unnamed (4).gif">   
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/fragile twarz/czarnobiale-fragile.gif">
+            <audio preload="auto">
+                <source src="media/sounds/serce (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>    
+        </div>   
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/error/9.gif">   
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/fragile/domineininferno400kolor.gif"> 
+            <audio preload="auto">
+                <source src="media/sounds/wanna.mp3" type="audio/mp3">
+            </audio>  
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/dominique/unnamed (9).gif">   
+        </div>
+         <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/fragile/helpwindows400.gif">  
+            <audio preload="auto">
+                <source src="media/sounds/piła (online-audio-converter.com).mp3" type="audio/mp3">
+            </audio>  
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/dominique/speedy.gif">
+            <audio preload="auto">
+                <source src="media/dominique/connect (1).mp3" type="audio/mp3">
+            </audio>
+        </div>
+        <div onmouseenter='playAudio(this)' onmouseleave="stopAudio(this)">
+            <img src="media/fragile/fragile-pudło-32.gif">   
+        </div>
+  
+
+    <script >
+        var backgroud_audio = document.getElementById("backgroud_audio");
+        if (backgroud_audio.tagName == "AUDIO") {
+            backgroud_audio.volume = 0.1;
+        }
+        function playbackgrund(){
+            var backgroud_audio = document.getElementById("backgroud_audio");
+            backgroud_audio.play();
+        }
+        
+        function background_move(backgroud, top, speed) {
+            var pos = top,
+                timer = setInterval(function () {
+                    pos += speed
+                    backgroud.style.top = pos + "px";
+                    if (pos >= 500) pos = 0;
+
+                }, 25);
+        }
+
+        function playAudio(object) {
+            var audio = object.getElementsByTagName("audio")[0]
+            if (audio != null) {
+                audio.play()
+            }
+        }
+        function stopAudio(object) {
+            var audio = object.getElementsByTagName("audio")[0]
+            if (audio != null) {
+                audio.pause()
+            }
+        }
+    </script>
+</body>
+
+</html>
